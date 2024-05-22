@@ -1,4 +1,4 @@
-# Car Sales Data-Visualization-with-Python-Project1
+# Automobile Sales Data-Visualization-with-Python-Project1
 
 **Scenario**
 The goal of this project is to create plots and visualizations to analyze "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods.

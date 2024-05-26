@@ -54,5 +54,5 @@ By examining various factors mentioned above from the dataset, we aim to gain in
 
 **TASK 9: Develop a countplot to analyse the effect of the unemployment rate on vehicle type and sales during the Recession Period**
 
-TASK 10 Create a map on the hightest sales region/offices of the company during recession period
+**TASK 10 Create a map on the hightest sales region/offices of the company during recession period**
 

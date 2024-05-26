@@ -1,6 +1,7 @@
 # Analyzing the effects of Recession periods on the Automobile Sales with Python
 
 **Scenario**
+
 The goal of this project is to create plots and visualizations to analyze "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods.
 recession period 1 - year 1980
 recession period 2 - year 1981 to 1982
@@ -10,6 +11,7 @@ recession period 5 - year end 2007 to mid 2009
 recession period 6 - year 2020 -Feb to April (Covid-19 Impact)
 
 **Data Source**
+
 The data is taken from the IBM course series for Data Analysis
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv
 

@@ -35,11 +35,17 @@ The dataset includes the following variables:
 By examining various factors mentioned above from the dataset, we aim to gain insights into how recessions impacted automobile sales.
 
 -Plotted yearly automobile sales trends with Pandas to show how sales fluctuated over time.
+
 -Compared sales trends by vehicle type across recession and non-recession periods, using line plots and Seaborn.
--Used subplots to compare GDP variation in recession and non-recession periods.
--Built a bubble plot to show how seasonality affects sales.
+
+-Used subplots to compare GDP variation in recession and non-recession period
+
+-Built a bubble plot to show how seasonality affects sales
+
 -Built a Matplotlib scatter plot to test whether average vehicle price was correlated with sales volume during recessions.
+
 -Used pie charts to break down advertising spend by period (recession vs non-recession) and by vehicle type during the recession.
+
 -Used a count plot to analyse how the unemployment rate affected sales by vehicle type during the recession.
 -Mapped the highest-sales regions and offices during the recession.
 

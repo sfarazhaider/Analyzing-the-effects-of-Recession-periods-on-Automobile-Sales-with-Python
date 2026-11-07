@@ -34,25 +34,12 @@ The dataset includes the following variables:
 13.Year: Year of the observation extracted from Date.
 By examining various factors mentioned above from the dataset, we aim to gain insights into how recessions impacted automobile sales.
 
-# The following are the Tasks for this project
-
-**TASK 1: Develop a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year**
-
-**TASK 2: Plot different lines for categories of vehicle type and analyse the trend to answer the question Is there a noticeable difference in sales trends between different vehicle types during recession periods?**
-
-**TASK 3: Use the functionality of Seaborn Library to create a visualization to compare the sales trend per vehicle type for a recession period with a non-recession period**
-
-**TASK 4: Use sub plotting to compare the variations in GDP during recession and non-recession period by developing line plots for each period**
-
-**TASK 5: Develop a Bubble plot for displaying the impact of seasonality on Automobile Sales**
-
-**TASK 6: Use the functionality of Matplotlib to develop a scatter plot to identify the correlation between average vehicle price relate to the sales volume during recessions**
-
-**TASK 7: Create a pie chart to display the portion of advertising expenditure of XYZAutomotives during recession and non-recession periods**
-
-**TASK 8: Develop a pie chart to display the total Advertisement expenditure for each vehicle type during recession period**
-
-**TASK 9: Develop a countplot to analyse the effect of the unemployment rate on vehicle type and sales during the Recession Period**
-
-**TASK 10 Create a map on the hightest sales region/offices of the company during recession period**
+-Plotted yearly automobile sales trends with Pandas to show how sales fluctuated over time.
+-Compared sales trends by vehicle type across recession and non-recession periods, using line plots and Seaborn.
+-Used subplots to compare GDP variation in recession and non-recession periods.
+-Built a bubble plot to show how seasonality affects sales.
+-Built a Matplotlib scatter plot to test whether average vehicle price was correlated with sales volume during recessions.
+-Used pie charts to break down advertising spend by period (recession vs non-recession) and by vehicle type during the recession.
+-Used a count plot to analyse how the unemployment rate affected sales by vehicle type during the recession.
+-Mapped the highest-sales regions and offices during the recession.
 
